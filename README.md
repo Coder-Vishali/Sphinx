@@ -28,3 +28,7 @@ Syntax: sphinx-build -b html sourcedir builddir
 sphinx-build -b html C:\Project\XYZ\docs\source C:\Project\XYZ\docs\build
 
 And finally, open docs/build/html/index.html in your browser. 
+
+<p align="center">
+  <img src="sample_index_html.PNG" width="350" title="hover text">
+</p>
