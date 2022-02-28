@@ -9,17 +9,13 @@ Sphinx: https://www.sphinx-doc.org/en/master/
 
 ## Sphinx setup: 
 
-Install using pip: 
+Install using pip: python -m pip install sphinx 
 
-python -m pip install sphinx 
-
-To check sphinx version:
-
-sphinx-build --version 
+To check sphinx version: sphinx-build --version 
 
 ## Creating documentation layout:
 
-sphinx-quickstart docs 
+Type this command in the terminal: sphinx-quickstart docs 
 
 You will see the new docs directory.
 
