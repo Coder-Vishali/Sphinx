@@ -19,6 +19,8 @@ Type this command in the terminal: sphinx-quickstart docs
 
 You will see the new docs directory.
 
+## Make required changes under source/conf.py and source/index.rst
+
 ## Running the build 
 
 Let’s make a first build of the docs. A build is started with the sphinx-build program: 
